@@ -2,7 +2,7 @@
 name = "take-home-backend"
 version = "0.1.0"
 description = "Dispo's backend engineering take home"
-authors = ["Your Name <you@example.com>"]
+authors = ["Garrett Boseck garrett.boseck@gmail.com"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
